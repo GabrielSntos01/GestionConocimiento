@@ -1,0 +1,2 @@
+rootProject.name = "prySoft"
+include ':app'
